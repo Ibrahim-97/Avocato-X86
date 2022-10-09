@@ -1,2 +1,4 @@
 # Lawosm
-Law Office System Manager
+##Law Office System Manager
+
+This application for managing Lawyer Office
